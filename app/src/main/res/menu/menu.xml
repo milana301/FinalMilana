@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/search"
+    android:icon="@drawable/map"
+        android:title="search"/>
+
+    <item android:id="@+id/star"
+        android:icon="@drawable/star"
+        android:title="favorites"/>
+
+    <item android:id="korzina"
+        android:icon="@drawable/korzina"
+        android:title="basket"/>
+
+    <item
+        android:id="account"
+        android:icon="@drawable/account"
+        android:title="account"/>
+
+</menu>
